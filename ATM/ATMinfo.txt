@@ -1,3 +1,7 @@
 
 
+<<<<<<< HEAD
 Address of ATM
+=======
+Address of ATM 12123
+>>>>>>> BranchA
